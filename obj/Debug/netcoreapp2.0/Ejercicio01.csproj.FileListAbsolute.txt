@@ -1,0 +1,11 @@
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp2.0\Ejercicio01.deps.json
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp2.0\Ejercicio01.runtimeconfig.json
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp2.0\Ejercicio01.runtimeconfig.dev.json
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp2.0\Ejercicio01.dll
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp2.0\Ejercicio01.pdb
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp2.0\Ejercicio01.csprojAssemblyReference.cache
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp2.0\Ejercicio01.csproj.CoreCompileInputs.cache
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp2.0\Ejercicio01.AssemblyInfoInputs.cache
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp2.0\Ejercicio01.AssemblyInfo.cs
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp2.0\Ejercicio01.dll
+c:\users\luisa\source\repos\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp2.0\Ejercicio01.pdb
